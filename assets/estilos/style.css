@@ -1,0 +1,20 @@
+.data-publicacao{
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.letras-pequenas{
+    font-size: 13px;
+}
+
+div{
+    margin: 10px 0;
+}
+
+fieldset{
+    margin: 10px 0;
+}
+
+footer{
+    margin: 20px 0;
+}
